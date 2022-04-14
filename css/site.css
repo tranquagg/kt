@@ -139,7 +139,9 @@ header{
 .item__logo-2{
     width: 48%;
     background-image: url(../images/image-2.jpg);
-    background-position: cover;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
     /* margin-left: 20px; */
     border-radius: 5px;
     height: 280px ;
