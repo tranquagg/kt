@@ -97,6 +97,10 @@ header{
 
     outline: none;
 }
+.form__container input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fff;
+    opacity: 1; /* Firefox */
+  }
 
 .form__container button{
     width: 170px;
