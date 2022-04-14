@@ -20,7 +20,7 @@ html {
 
 /* header */
 .wrapper{
-    background-image : url(/images/head-background.jpg);
+    background-image : url(./images/head-background.jpg);
     height: 765px;
     width: var(--width-full);
 }
